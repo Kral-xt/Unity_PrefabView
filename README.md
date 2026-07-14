@@ -75,3 +75,8 @@ UI Prefab：临时 Canvas、正交摄像机和 RenderTexture
 自动取景：Renderer Bounds 或 RectTransform 世界角点
 编辑器隔离：HideFlags.HideAndDontSave
 它不会修改原始 Prefab，也不会向场景写入持久内容，只在编辑器中创建临时预览环境。
+
+
+
+
+调用方法为Tools/PrefabPreview
